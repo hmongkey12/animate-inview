@@ -6,7 +6,7 @@ A react component that animates when it comes into view.
 
 yarn add animate-inview
 
-# Example
+## Example
 
 ```
 import Animated from "animate-inview"
@@ -22,7 +22,7 @@ const animated = { opacity: 1, scale: 1}
 </Animated>
 ```
 
-# Technologies
+## Technologies
 
 Project is created with:
 
