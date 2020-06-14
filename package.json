@@ -7,6 +7,15 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmongkey12/animate-inview.git"
+  },
+  "homepage": "https://github.coom/hmongkey12/animate-inview.git",
+  "keywords": [
+    "react",
+    "animate-inview"
+  ],
   "engines": {
     "node": ">=10"
   },
